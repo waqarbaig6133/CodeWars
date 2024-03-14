@@ -1,1 +1,1 @@
-To know context of each exercises, drag mouse on message next to the file name
+To know context of each exercises, drag mouse on last commit message for each file
