@@ -5,9 +5,9 @@ Example: The binary representation of 1234 is 10011010010, so the function shoul
 '''
 def count_bits(n):
     a = list(bin(n)[2:])
-    b = []
+    b = 0
     for x in a:
         if x == "1":
-            b.append(x)
-    return len(b)
+            b+=1
+    return b
     
